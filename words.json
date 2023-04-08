@@ -1,0 +1,2996 @@
+[
+  {
+    "word": "homogenous",
+    "definition": "Of the same kind; alike, similar.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "inclination",
+    "definition": "A physical tilt or bend.",
+    "example": "The inclination of his head increased and he awoke with a start.",
+    "weight": 3
+  },
+  {
+    "word": "indulge",
+    "definition": "(often followed by \"in\"): To yield to a temptation or desire.",
+    "example": "He looked at the chocolate but didn't indulge.",
+    "weight": 3
+  },
+  {
+    "word": "infer",
+    "definition": "To introduce (something) as a reasoned conclusion; to conclude by reasoning or deduction, as from premises or evidence.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "initiative",
+    "definition": "A beginning; a first move.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "insight",
+    "definition": "A sight or view of the interior of anything; a deep inspection or view; introspection; frequently used with into.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "inspection",
+    "definition": "The act of examining something, often closely.",
+    "example": "Upon closer inspection, the animal turned out to be a dolphin, not a shark!",
+    "weight": 3
+  },
+  {
+    "word": "integral",
+    "definition": "A number, the limit of the sums computed in a process in which the domain of a function is divided into small subsets and a possibly nominal value of the function on each subset is multiplied by the measure of that subset, all these products then being summed.",
+    "example": "The integral of x\\mapsto x^2 on [0,1] is \\frac{1}{3}.",
+    "weight": 3
+  },
+  {
+    "word": "intervention",
+    "definition": "The action of intervening; interfering in some course of events.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "intrinsic",
+    "definition": "A built-in function that is implemented directly by the compiler, without any intermediate call to a library.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "invoke",
+    "definition": "To call upon (a person, a god) for help, assistance or guidance.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "justify",
+    "definition": "To provide an acceptable explanation for.",
+    "example": "How can you justify spending so much money on clothes?",
+    "weight": 3
+  },
+  {
+    "word": "likewise",
+    "definition": "(manner) In a similar manner.",
+    "example": "Public transportation is virtually inaccessible in this country; likewise, its hospitals are also not very user-friendly.",
+    "weight": 3
+  },
+  {
+    "word": "link",
+    "definition": "Some text or a graphic in an electronic document that can be activated to display another document or trigger an action.",
+    "example": "Click the hyperlink to go to the next page.",
+    "weight": 3
+  },
+  {
+    "word": "manage",
+    "definition": "The act of managing or controlling something.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "manipulation",
+    "definition": "The practice of manipulating or the state of being manipulated.",
+    "example": "The dealer's manipulations could have removed cards from the deck.",
+    "weight": 3
+  },
+  {
+    "word": "merge",
+    "definition": "The joining together of multiple sources.",
+    "example": "The merge of the two documents failed.",
+    "weight": 3
+  },
+  {
+    "word": "nonetheless",
+    "definition": "Nevertheless.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "notwithstanding",
+    "definition": "An instance of the word \"notwithstanding\", often characteristic of legalese.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "odd",
+    "definition": "(diminutive) An odd number.",
+    "example": "So let's see. There are two evens here and three odds.",
+    "weight": 3
+  },
+  {
+    "word": "ongoing",
+    "definition": "To be ongoing (occurring, happening); to last, proceed or continue.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "overlap",
+    "definition": "Something that overlaps or is overlapped",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "persistent",
+    "definition": "Obstinately refusing to give up or let go.",
+    "example": "She has had a persistent cough for weeks.",
+    "weight": 3
+  },
+  {
+    "word": "pose",
+    "definition": "Common cold, head cold; catarrh.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "possess",
+    "definition": "To have; to have ownership of.",
+    "example": "He does not even possess a working telephone.",
+    "weight": 3
+  },
+  {
+    "word": "preliminary",
+    "definition": "A preparation for a main matter; an introduction.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "presumption",
+    "definition": "The act of presuming, or something presumed",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "ratio",
+    "definition": "A number representing a comparison between two named things.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "refine",
+    "definition": "To purify; reduce to a fine, unmixed, or pure state; to free from impurities.",
+    "example": "to refine gold",
+    "weight": 3
+  },
+  {
+    "word": "relate",
+    "definition": "To tell in a descriptive way.",
+    "example": "Please relate the circumstances of your journey here today.",
+    "weight": 3
+  },
+  {
+    "word": "reluctant",
+    "definition": "Opposing; offering resistance (to).",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "restore",
+    "definition": "The act of recovering data or a system from a backup.",
+    "example": "We backed up the data successfully, but the restore failed.",
+    "weight": 3
+  },
+  {
+    "word": "restraint",
+    "definition": "Something that restrains, ties, fastens or secures",
+    "example": "Make sure all the restraints are tight.",
+    "weight": 3
+  },
+  {
+    "word": "rigid",
+    "definition": "A bicycle with no suspension system.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "route",
+    "definition": "A course or way which is traveled or passed.",
+    "example": "The route was used so much that it formed a rut.",
+    "weight": 3
+  },
+  {
+    "word": "sacrifice",
+    "definition": "The offering of anything to a god; a consecratory rite.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "scale",
+    "definition": "A ladder; a series of steps; a means of ascending.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "so-called",
+    "definition": "So named; commonly called by such a name, often with a connotation that the item is not worthy of that name.",
+    "example": "These so-called \"assistants\" are making our jobs harder, not easier!",
+    "weight": 3
+  },
+  {
+    "word": "straightforward",
+    "definition": "Proceeding in a straight course or manner; not deviating.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "subordinate",
+    "definition": "One who is subordinate.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "substantiate",
+    "definition": "To verify something by supplying evidence; to authenticate or corroborate",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "supplementary",
+    "definition": "Something additional; an extra.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "sympathy",
+    "definition": "A feeling of pity or sorrow for the suffering or distress of another; compassion.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "termination",
+    "definition": "The process of terminating or the state of being terminated.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "transmission",
+    "definition": "The act of transmitting, e.g. data or electric power.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "undergo",
+    "definition": "To go or move under or beneath.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "unify",
+    "definition": "Cause to become one; make into a unit; consolidate; merge; combine.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "vital",
+    "definition": "Relating to, or characteristic of life.",
+    "example": "vital energies; vital functions; vital actions",
+    "weight": 3
+  },
+  {
+    "word": "voluntary",
+    "definition": "A short piece of music, often having improvisation, played on a solo instrument.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "whereby",
+    "definition": "(interrogative) By what, in which direction; how.",
+    "example": "Whereby goest thou?",
+    "weight": 3
+  },
+  {
+    "word": "abandon",
+    "definition": "To give up or relinquish control of, to surrender or to give oneself over, or to yield to one's emotions.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "abate",
+    "definition": "Abatement.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "abrupt",
+    "definition": "Something which is abrupt; an abyss.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "accumulation",
+    "definition": "The act of amassing or gathering, as into a pile.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "acquisition",
+    "definition": "The act or process of acquiring.",
+    "example": "The acquisition of sports equipment can be fun in itself.",
+    "weight": 3
+  },
+  {
+    "word": "adjacent",
+    "definition": "Something that lies next to something else, especially the side of a right triangle that is neither the hypotenuse nor the opposite.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "aggregate",
+    "definition": "A mass, assemblage, or sum of particulars; something consisting of elements but considered as a whole.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "albeit",
+    "definition": "Although, despite (it) being.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "ambiguous",
+    "definition": "Open to multiple interpretations.",
+    "example": "The politician was criticized for his ambiguous statements and lack of precision.",
+    "weight": 3
+  },
+  {
+    "word": "ancestor",
+    "definition": "One from whom a person is descended, whether on the father's or mother's side, at any distance of time; a progenitor; a forefather.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "assembly",
+    "definition": "A set of pieces that work together in unison as a mechanism or device.",
+    "example": "In order to change the bearing, you must first remove the gearbox assembly.",
+    "weight": 3
+  },
+  {
+    "word": "assessment",
+    "definition": "The act of assessing or an amount (of tax, levy or duty etc) assessed.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "assign",
+    "definition": "An assignee.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "attain",
+    "definition": "To gain (an object or desired result).",
+    "example": "To attain such a high level of proficiency requires hours of practice each day.",
+    "weight": 3
+  },
+  {
+    "word": "avert",
+    "definition": "To turn aside or away.",
+    "example": "To avert the eyes from an object.",
+    "weight": 3
+  },
+  {
+    "word": "coal",
+    "definition": "A black rock formed from prehistoric plant remains, composed largely of carbon and burned as a fuel.",
+    "example": "Put some coal on the fire.",
+    "weight": 3
+  },
+  {
+    "word": "collapse",
+    "definition": "The act of collapsing.",
+    "example": "She suffered a terrible collapse after slipping on the wet floor.",
+    "weight": 3
+  },
+  {
+    "word": "colleagues",
+    "definition": "A fellow member of a profession, staff, academic faculty or other organization; an associate.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "combat",
+    "definition": "A battle, a fight (often one in which weapons are used).",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "commit",
+    "definition": "The act of committing (e.g. a database transaction or source code into a source control repository), making it a permanent change.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "compile",
+    "definition": "An act of compiling code.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "complement",
+    "definition": "A protective substance that exists in the serum or other bodily fluid and is capable of killing microorganisms; complement.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "comprise",
+    "definition": "To be made up of; to consist of (especially a comprehensive list of parts).",
+    "example": "The parts are comprised by the whole.",
+    "weight": 3
+  },
+  {
+    "word": "conceive",
+    "definition": "To develop an idea; to form in the mind; to plan; to devise; to originate.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "concurrent",
+    "definition": "One who, or that which, concurs; a joint or contributory cause.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "confined",
+    "definition": "To restrict; to keep within bounds; to shut or keep in a limited space or area.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "conform",
+    "definition": "(of persons, often followed by to) To act in accordance with expectations; to behave in the manner of others, especially as a result of social pressure.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "confuse",
+    "definition": "To puzzle, perplex, baffle, bewilder (somebody).",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "consciousness",
+    "definition": "The state of being conscious or aware; awareness.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "convinced",
+    "definition": "To make someone believe, or feel sure about something, especially by using logic, argument or evidence.",
+    "example": "I wouldn't have or do something, unless I'm convinced that it's good.",
+    "weight": 3
+  },
+  {
+    "word": "creditable",
+    "definition": "Credible or believable.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "deceive",
+    "definition": "To trick or mislead.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "depression",
+    "definition": "In psychotherapy and psychiatry, a state of mind producing serious, long-term lowering of enjoyment of life or inability to visualize a happy future.",
+    "example": "I used to suffer from depression, but now I'm mostly content with my life.",
+    "weight": 3
+  },
+  {
+    "word": "derive",
+    "definition": "To obtain or receive (something) from something else.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "distribution",
+    "definition": "An act of distributing or state of being distributed.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "divergent",
+    "definition": "Growing further apart; diverging.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "doubt",
+    "definition": "Disbelief or uncertainty (about something); a particular instance of such disbelief or uncertainty.",
+    "example": "I have doubts about how to convert this code to JavaScript.",
+    "weight": 3
+  },
+  {
+    "word": "drastic",
+    "definition": "A powerful, fast-acting purgative medicine.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "election",
+    "definition": "A process of choosing a leader, members of parliament, councillors or other representatives by popular vote.",
+    "example": "How did you vote in (UK also: at) the last election?",
+    "weight": 3
+  },
+  {
+    "word": "empirical",
+    "definition": "Pertaining to or based on experience.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "encounter",
+    "definition": "A meeting, especially one that is unplanned or unexpected.",
+    "example": "Their encounter was a matter of chance.",
+    "weight": 3
+  },
+  {
+    "word": "enhance",
+    "definition": "To lift, raise up.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "enormous",
+    "definition": "Deviating from the norm; unusual, extraordinary.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "entirely",
+    "definition": "To the full or entire extent.",
+    "example": "It is entirely up to you where we go, as I\u2019ll be happy with anywhere.",
+    "weight": 3
+  },
+  {
+    "word": "entrepreneur",
+    "definition": "A person who organizes and operates a business venture and assumes much of the associated risk.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "erosion",
+    "definition": "The result of having been worn away or eroded, as by a glacier on rock or the sea on a cliff face.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "forbearance",
+    "definition": "Patient self-control; restraint and tolerance under provocation.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "forthcoming",
+    "definition": "An act of coming forth.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "frustration",
+    "definition": "The feeling of annoyance when one's actions are criticized or hindered",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "goal",
+    "definition": "A result that one is attempting to achieve.",
+    "example": "My lifelong goal is to get into a Hollywood movie.",
+    "weight": 3
+  },
+  {
+    "word": "implicit",
+    "definition": "Implied indirectly, without being directly expressed",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "incompatible",
+    "definition": "(chiefly in the plural) An incompatible substance; one of a group of things that cannot be placed or used together because of a change of chemical composition or opposing medicinal qualities.",
+    "example": "the incompatibles of iron",
+    "weight": 3
+  },
+  {
+    "word": "induce",
+    "definition": "To lead by persuasion or influence; incite or prevail upon.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "inevitably",
+    "definition": "In a manner that is impossible to avoid or prevent.",
+    "example": "Despite the town's best efforts, the dam inevitably gave way.",
+    "weight": 3
+  },
+  {
+    "word": "inherent",
+    "definition": "Naturally as part or consequence of something.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "intensity",
+    "definition": "The quality of being intense.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "intermediate",
+    "definition": "Anything in an intermediate position.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "internal",
+    "definition": "Inside of something",
+    "example": "We saw the internal compartments.",
+    "weight": 3
+  },
+  {
+    "word": "manual",
+    "definition": "A handbook.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "mature",
+    "definition": "Fully developed; grown up in terms of physical appearance, behaviour or thinking; ripe.",
+    "example": "She is quite mature for her age.",
+    "weight": 3
+  },
+  {
+    "word": "medium",
+    "definition": "(plural media or mediums) The chemistry of the surrounding environment, e.g. solid, liquid, gas, vacuum, or a specific substance such as a solvent.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "military",
+    "definition": "Armed forces.",
+    "example": "He spent six years in the military.",
+    "weight": 3
+  },
+  {
+    "word": "mutual",
+    "definition": "A mutual fund.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "norms",
+    "definition": "That which is normal or typical.",
+    "example": "Unemployment is the norm in this part of the country.",
+    "weight": 3
+  },
+  {
+    "word": "notion",
+    "definition": "Mental apprehension of whatever may be known, thought, or imagined; idea, concept.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "nuclear",
+    "definition": "Nuclear power",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "objective",
+    "definition": "A material object that physically exists.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "paragraph",
+    "definition": "A passage in text that is about a different subject from the preceding text, marked by commencing on a new line, the first line sometimes being indented.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "passive",
+    "definition": "(grammar) The passive voice of verbs.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "perceive",
+    "definition": "To become aware of, through the physical senses or by thinking; to see; to understand.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "portion",
+    "definition": "An allocated amount.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "precede",
+    "definition": "Brief editorial preface (usually to an article or essay)",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "predominantly",
+    "definition": "In a predominant manner. Most commonly or frequently by a large margin.",
+    "example": "The membership is predominantly elderly, 90% are over age 60.",
+    "weight": 3
+  },
+  {
+    "word": "priority",
+    "definition": "An item's relative importance.",
+    "example": "He set his e-mail message's priority to high.",
+    "weight": 3
+  },
+  {
+    "word": "prospect",
+    "definition": "The region which the eye overlooks at one time; view; scene; outlook.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "qualitative",
+    "definition": "Something qualitative.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "radical",
+    "definition": "(historical: 19th-century Britain) A member of the most progressive wing of the Liberal Party; someone favouring social reform (but generally stopping short of socialism).",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "random",
+    "definition": "A roving motion; course without definite direction; lack of rule or method; chance.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "reinforce",
+    "definition": "To strengthen, especially by addition or augmentation.",
+    "example": "He reinforced the handle with a metal rod and a bit of tape.",
+    "weight": 3
+  },
+  {
+    "word": "relax",
+    "definition": "To calm down.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "revision",
+    "definition": "The process of revising:",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "revolution",
+    "definition": "A political upheaval in a government or nation state characterized by great change.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "scenario",
+    "definition": "An outline of the plot of a dramatic or literary work.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "schedule",
+    "definition": "A slip of paper; a short note.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "sphere",
+    "definition": "A regular three-dimensional object in which every cross-section is a circle; the figure described by the revolution of a circle about its diameter .",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "suspended",
+    "definition": "To halt something temporarily.",
+    "example": "The meeting was suspended for lunch.",
+    "weight": 3
+  },
+  {
+    "word": "target",
+    "definition": "A butt or mark to shoot at, as for practice, or to test the accuracy of a firearm, or the force of a projectile.",
+    "example": "Take careful aim at the target.",
+    "weight": 3
+  },
+  {
+    "word": "team",
+    "definition": "A set of draught animals, such as two horses in front of a carriage.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "temporary",
+    "definition": "One serving for a limited time; short-term employee.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "tension",
+    "definition": "The condition of being held in a state between two or more forces, which are acting in opposition to each other.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "theme",
+    "definition": "A subject of a talk or an artistic piece; a topic.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "thereby",
+    "definition": "By it; by that; by that means, or as a consequence of that.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "uniform",
+    "definition": "A distinctive outfit that serves to identify members of a group.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "validity",
+    "definition": "The state of being valid, authentic or genuine.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "vehicle",
+    "definition": "A conveyance; a device for carrying or transporting substances, objects or individuals.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "via",
+    "definition": "A main road or highway, especially in ancient Rome. (Mainly used in set phrases, below.)",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "violation",
+    "definition": "The act or an instance of violating or the condition of being violated.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "virtual",
+    "definition": "A virtual member function of a class.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "vision",
+    "definition": "The sense or ability of sight.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "widespread",
+    "definition": "Affecting a large area (e.g. the entire land or body); broad in extent; widely diffused.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "accommodation",
+    "definition": "(usually a mass noun) Lodging in a dwelling or similar living quarters afforded to travellers in hotels or on cruise ships, or prisoners, etc.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "accompany",
+    "definition": "To go with or attend as a companion or associate; to keep company with; to go along with.",
+    "example": "Geoffrey accompanied the group on their pilgrimage.",
+    "weight": 3
+  },
+  {
+    "word": "advance",
+    "definition": "A forward move; improvement or progression.",
+    "example": "an advance in health or knowledge",
+    "weight": 3
+  },
+  {
+    "word": "analogous",
+    "definition": "Having analogy; corresponding to something else; bearing some resemblance or proportion (often followed by \"to\".)",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "anticipate",
+    "definition": "To act before (someone), especially to prevent an action.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "appendix",
+    "definition": "Something attached to something else; an attachment or accompaniment.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "appreciate",
+    "definition": "To be grateful or thankful for.",
+    "example": "I appreciate your efforts",
+    "weight": 3
+  },
+  {
+    "word": "arbitrary",
+    "definition": "Anything arbitrary, such as an arithmetical value or a fee.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "assure",
+    "definition": "To make sure and secure.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "automatically",
+    "definition": "In an automatic manner.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "bias",
+    "definition": "Inclination towards something; predisposition, partiality, prejudice, preference, predilection.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "cease",
+    "definition": "Cessation; extinction (see without cease).",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "chart",
+    "definition": "A map.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "clarity",
+    "definition": "The state or measure of being clear, either in appearance, thought or style; lucidity.",
+    "example": "Lack of clarity on the part of the teacher will cause confusion among the students.",
+    "weight": 3
+  },
+  {
+    "word": "coherence",
+    "definition": "The quality of cohering, or being coherent; internal consistency.",
+    "example": "His arguments lacked coherence.",
+    "weight": 3
+  },
+  {
+    "word": "coincide",
+    "definition": "To occupy exactly the same space.",
+    "example": "The two squares coincide nicely.",
+    "weight": 3
+  },
+  {
+    "word": "commodity",
+    "definition": "Anything movable (a good) that is bought and sold.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "confirm",
+    "definition": "To strengthen; to make firm or resolute.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "contemporary",
+    "definition": "Someone or something living at the same time, or of roughly the same age as another.",
+    "example": "Cervantes was a contemporary of Shakespeare.",
+    "weight": 3
+  },
+  {
+    "word": "contradict",
+    "definition": "To deny the truth of (a statement or statements).",
+    "example": "His testimony contradicts hers.",
+    "weight": 3
+  },
+  {
+    "word": "controversy",
+    "definition": "A debate or discussion of opposing opinions; (generally) strife.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "conversely",
+    "definition": "With a reversed relationship.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "cooperate",
+    "definition": "To work or act together, especially for a common purpose or benefit.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "crucial",
+    "definition": "Essential or decisive for determining the outcome or future of something; extremely important.",
+    "example": "A secure supply of crude oil is crucial for any modern nation, let alone a superpower.",
+    "weight": 3
+  },
+  {
+    "word": "currency",
+    "definition": "Money or other items used to facilitate transactions.",
+    "example": "Wampum was used as a currency by Amerindians.",
+    "weight": 3
+  },
+  {
+    "word": "denote",
+    "definition": "To indicate; to mark.",
+    "example": "The yellow blazes denote the trail.",
+    "weight": 3
+  },
+  {
+    "word": "detect",
+    "definition": "To discover or find by careful search, examination, or probing",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "deviation",
+    "definition": "The act of deviating; wandering off the correct or true path or road",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "device",
+    "definition": "Any piece of equipment made for a particular purpose, especially a mechanical or electrical one.",
+    "example": "There are a number of household devices in a kitchen such as a dishwasher, a garbage disposal, or an electric can opener.",
+    "weight": 3
+  },
+  {
+    "word": "devote",
+    "definition": "To give one's time, focus one's efforts, commit oneself, etc. entirely for, on, or to a certain matter",
+    "example": "I devoted this afternoon to repainting my study, and nothing will get in my way.",
+    "weight": 3
+  },
+  {
+    "word": "differentiation",
+    "definition": "The act of differentiating.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "diminish",
+    "definition": "To make smaller.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "displacement",
+    "definition": "The act of displacing, or the state of being displaced; a putting out of place.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "display",
+    "definition": "A show or spectacle.",
+    "example": "The trapeze artist put on an amazing acrobatic display.",
+    "weight": 3
+  },
+  {
+    "word": "distorted",
+    "definition": "To bring something out of shape, to misshape.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "dramatic",
+    "definition": "Of or relating to the drama.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "duration",
+    "definition": "An amount of time or a particular time interval.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "ethical",
+    "definition": "An ethical drug, one only dispensed on the prescription of a physician.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "eventually",
+    "definition": "In the end; at some later time, especially after a long time, a series of problems, struggles, delays or setbacks.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "exhibit",
+    "definition": "An instance of exhibiting.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "explicit",
+    "definition": "Very specific, clear, or detailed.",
+    "example": "I gave explicit instructions for him to stay here, but he followed me, anyway.",
+    "weight": 3
+  },
+  {
+    "word": "exploitation",
+    "definition": "The act of utilizing something; industry.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "extract",
+    "definition": "Something that is extracted or drawn out.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "federal",
+    "definition": "A law-enforcement official of the FBI; a federal agent.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "fluctuations",
+    "definition": "A motion like that of waves; a moving in this and that direction.",
+    "example": "the fluctuations of the sea",
+    "weight": 3
+  },
+  {
+    "word": "format",
+    "definition": "The layout of a publication or document.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "founded",
+    "definition": "To start (an institution or organization).",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "guidelines",
+    "definition": "A non-specific rule or principle that provides direction to action or behaviour.",
+    "example": "He considered the Ten Commandments more a guideline than a requirement.",
+    "weight": 3
+  },
+  {
+    "word": "highlighted",
+    "definition": "To make prominent; emphasize.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "instruction",
+    "definition": "The act of instructing, teaching, or furnishing with information or knowledge.",
+    "example": "Instruction will be provided on how to handle difficult customers.",
+    "weight": 3
+  },
+  {
+    "word": "intelligence",
+    "definition": "Capacity of mind, especially to understand principles, truths, facts or meanings, acquire knowledge, and apply it to practice; the ability to comprehend and learn.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "interact",
+    "definition": "A short act or piece between others, as in a play; a break between acts.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "interval",
+    "definition": "A distance in space.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "investigation",
+    "definition": "The act of investigating; the process of inquiring into or following up; research, especially patient or thorough inquiry or examination",
+    "example": "Despite thorough investigation, the perpetrator of the attacks remains unknown.",
+    "weight": 3
+  },
+  {
+    "word": "isolated",
+    "definition": "To set apart or cut off from others.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "justification",
+    "definition": "A reason, explanation, or excuse which provides convincing, morally acceptable support for behavior or for a belief or occurrence.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "lecture",
+    "definition": "A spoken lesson or exposition, usually delivered to a group.",
+    "example": "During class today the professor delivered an interesting lecture.",
+    "weight": 3
+  },
+  {
+    "word": "liberal",
+    "definition": "One with liberal views, supporting individual liberty (see Wikipedia's article on Liberalism).",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "migration",
+    "definition": "An instance of moving to live in another place for a while.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "minimum",
+    "definition": "The lowest limit.",
+    "example": "We need a minimum of three staff members on duty at all time.",
+    "weight": 3
+  },
+  {
+    "word": "monitoring",
+    "definition": "To watch over; to guard.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "motivation",
+    "definition": "Willingness of action especially in behavior.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "neutral",
+    "definition": "A nonaligned state, or a member of such a state.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "obvious",
+    "definition": "Easily discovered, seen, or understood; self-explanatory.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "overseas",
+    "definition": "Abroad.",
+    "example": "Overseas branches of the company are doing well.",
+    "weight": 3
+  },
+  {
+    "word": "parameter",
+    "definition": "A value kept constant during an experiment, equation, calculation or similar, but varied over other versions of the experiment, equation, calculation, etc.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "phenomenon",
+    "definition": "A thing or being, event or process, perceptible through senses; or a fact or occurrence thereof.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "prohibit",
+    "definition": "To forbid, disallow, or proscribe officially; to make illegal or illicit.",
+    "example": "The restaurant prohibits smoking on the patio.",
+    "weight": 3
+  },
+  {
+    "word": "publish",
+    "definition": "To issue (something, such as printed work) for distribution and/or sale.",
+    "example": "Most of the sketches Faulkner published in 1925 appeared in the Sunday magazine section of the New Orleans Times-Picayune.",
+    "weight": 3
+  },
+  {
+    "word": "pursue",
+    "definition": "To follow urgently, originally with intent to capture or harm; to chase.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "rational",
+    "definition": "A rational number: a number that can be expressed as the quotient of two integers.",
+    "example": "The quotient of two rationals is again a rational.",
+    "weight": 3
+  },
+  {
+    "word": "recovery",
+    "definition": "The act or process of regaining or repossession of something lost.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "reject",
+    "definition": "Something that is rejected.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "release",
+    "definition": "The event of setting (someone or something) free (e.g. hostages, slaves, prisoners, caged animals, hooked or stuck mechanisms).",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "reveal",
+    "definition": "The outer side of a window or door frame; the jamb.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "role",
+    "definition": "A character or part played by a performer or actor.",
+    "example": "Her dream was to get a role in a Hollywood movie, no matter how small.",
+    "weight": 3
+  },
+  {
+    "word": "satisfy",
+    "definition": "To do enough for; to meet the needs of; to fulfill the wishes or requirements of.",
+    "example": "I'm not satisfied with the quality of the food here.",
+    "weight": 3
+  },
+  {
+    "word": "scope",
+    "definition": "The breadth, depth or reach of a subject; a domain.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "sequence",
+    "definition": "A set of things next to each other in a set order; a series",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "simulation",
+    "definition": "Something that simulates a system or environment in order to predict actual behaviour.",
+    "example": "The most reliable simulation predicts that the hurricane will turn north.",
+    "weight": 3
+  },
+  {
+    "word": "solely",
+    "definition": "Alone; exclusively.",
+    "example": "The new chef was solely responsible for attending the grill.",
+    "weight": 3
+  },
+  {
+    "word": "somewhat",
+    "definition": "More or less; a certain quantity or degree; a part, more or less; something.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "status",
+    "definition": "A person\u2019s condition, position or standing relative to that of others.",
+    "example": "Superstition is highly correlated with economic status.",
+    "weight": 3
+  },
+  {
+    "word": "stress",
+    "definition": "(Cause of) discomfort.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "style",
+    "definition": "Senses relating to a thin, pointed object.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "substitution",
+    "definition": "The act of substituting or the state of being substituted.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "successive",
+    "definition": "Coming one after the other in a series.",
+    "example": "They had won the title for five successive years.",
+    "weight": 3
+  },
+  {
+    "word": "survey",
+    "definition": "The act of surveying; a general view.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "survive",
+    "definition": "Of a person, to continue to live; to remain alive.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "sustainable",
+    "definition": "Able to be sustained.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "symbolic",
+    "definition": "Pertaining to a symbol.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "topic",
+    "definition": "Subject; theme; a category or general area of interest.",
+    "example": "A society where a topic cannot be discussed, does not have free speech.",
+    "weight": 3
+  },
+  {
+    "word": "trace",
+    "definition": "An act of tracing.",
+    "example": "Your cell phone company can put a trace on your line.",
+    "weight": 3
+  },
+  {
+    "word": "transformation",
+    "definition": "The act of transforming or the state of being transformed.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "ultimate",
+    "definition": "The most basic or fundamental of a set of things",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "underline",
+    "definition": "A line placed underneath a piece of text in order to provide emphasis or to indicate that it should be viewed in italics or (in electronic documents) that it acts as a hyperlink.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "unique",
+    "definition": "A thing without a like; something unequalled or unparallelled.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "utility",
+    "definition": "The state or condition of being useful; usefulness.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "visible",
+    "definition": "Able to be seen.",
+    "example": "When the sun rises, the world becomes visible.",
+    "weight": 3
+  },
+  {
+    "word": "abstract",
+    "definition": "An abridgement or summary of a longer publication.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "accurate",
+    "definition": "Telling the truth or giving a true result; exact; not defective or faulty",
+    "example": "accurate knowledge",
+    "weight": 3
+  },
+  {
+    "word": "acknowledge",
+    "definition": "To admit the knowledge of; to recognize as a fact or truth; to declare one's belief in",
+    "example": "to acknowledge the being of a god",
+    "weight": 3
+  },
+  {
+    "word": "adaptation",
+    "definition": "The process of adapting something or becoming adapted to a situation; adjustment, modification.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "adequate",
+    "definition": "To equalize; to make adequate.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "adjust",
+    "definition": "To modify.",
+    "example": "Morimoto's recipes are adjusted to suit the American palate.",
+    "weight": 3
+  },
+  {
+    "word": "adult",
+    "definition": "A fully grown human or animal.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "advocate",
+    "definition": "Someone whose job is to speak for someone's case in a court of law; a counsel.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "aid",
+    "definition": "Help; assistance; succor, relief.",
+    "example": "He came to my aid when I was foundering.",
+    "weight": 3
+  },
+  {
+    "word": "attribute",
+    "definition": "A characteristic or quality of a thing.",
+    "example": "His finest attribute is his kindness.",
+    "weight": 3
+  },
+  {
+    "word": "author",
+    "definition": "The originator or creator of a work, especially of a literary composition.",
+    "example": "Have you read any Corinthian authors?",
+    "weight": 3
+  },
+  {
+    "word": "brief",
+    "definition": "A writ summoning one to answer to any action.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "capable",
+    "definition": "Able and efficient; having the ability needed for a specific task; having the disposition to do something; permitting or being susceptible to something.",
+    "example": "As everyone knew, he was capable of violence when roused.",
+    "weight": 3
+  },
+  {
+    "word": "civil",
+    "definition": "Having to do with people and government office as opposed to the military or religion.",
+    "example": "She went into civil service because she wanted to help the people.",
+    "weight": 3
+  },
+  {
+    "word": "classical",
+    "definition": "One that is classical in some way; for example, a classical economist.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "comprehensive ",
+    "definition": "A comprehensive school.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "contrary",
+    "definition": "The opposite.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "coordination",
+    "definition": "The act of coordinating, making different people or things work together for a goal or effect.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "couple",
+    "definition": "Two partners in a romantic or sexual relationship.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "decades",
+    "definition": "A group, set, or series of ten , particularly:",
+    "example": "a decade of soldiers",
+    "weight": 3
+  },
+  {
+    "word": "definite",
+    "definition": "(grammar) A word or phrase that designates a specified or identified person or entity.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "deny",
+    "definition": "To disallow or reject.",
+    "example": "I wanted to go to the party, but I was denied.",
+    "weight": 3
+  },
+  {
+    "word": "discrimination",
+    "definition": "Discernment, the act of discriminating, discerning, distinguishing, noting or perceiving differences between things, with intent to understand rightly and make correct decisions.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "disposal",
+    "definition": "An arrangement, categorization or classification of things.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "diversity",
+    "definition": "The quality of being diverse or different; difference or unlikeness.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "domain",
+    "definition": "A geographic area owned or controlled by a single person or organization.",
+    "example": "The king ruled his domain harshly.",
+    "weight": 3
+  },
+  {
+    "word": "dynamic",
+    "definition": "A characteristic or manner of an interaction; a behavior.",
+    "example": "Watch the dynamic between the husband and wife when they disagree.",
+    "weight": 3
+  },
+  {
+    "word": "eliminate",
+    "definition": "To completely remove, get rid of, put an end to.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "equipment",
+    "definition": "The act of equipping, or the state of being equipped, as for a voyage or expedition.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "estate",
+    "definition": "The collective property and liabilities of someone, especially a deceased person.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "exceed",
+    "definition": "To be larger, greater than (something).",
+    "example": "The company's 2005 revenue exceeds that of 2004.",
+    "weight": 3
+  },
+  {
+    "word": "expansion",
+    "definition": "The act or process of expanding.",
+    "example": "The expansion of metals and plastics in response to heat is well understood.",
+    "weight": 3
+  },
+  {
+    "word": "expert",
+    "definition": "A person with extensive knowledge or ability in a given subject.",
+    "example": "We called in several experts on the subject, but they couldn't reach an agreement.",
+    "weight": 3
+  },
+  {
+    "word": "fees",
+    "definition": "(feudal law) A right to the use of a superior's land, as a stipend for services to be performed; also, the land so held; a fief.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "flexibility",
+    "definition": "The quality of being flexible; suppleness; pliability.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "foundation",
+    "definition": "The act of founding, fixing, establishing, or beginning to erect.",
+    "example": "The foundation of his institute has been wrought with difficulty.",
+    "weight": 3
+  },
+  {
+    "word": "gender",
+    "definition": "Class; kind.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "global",
+    "definition": "A globally scoped identifier.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "grade",
+    "definition": "A rating.",
+    "example": "I gave him a good grade for effort.",
+    "weight": 3
+  },
+  {
+    "word": "guarantee",
+    "definition": "Anything that assures a certain outcome.",
+    "example": "Can you give me a guarantee that he will be fit for the match?",
+    "weight": 3
+  },
+  {
+    "word": "identical",
+    "definition": "(usually pluralized) Something which has exactly the same properties as something else.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "ignorance",
+    "definition": "The condition of being uninformed or uneducated. Lack of knowledge or information.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "imply",
+    "definition": "(of a proposition) to have as a necessary consequence",
+    "example": "The proposition that \"all dogs are mammals\" implies that my dog is a mammal",
+    "weight": 3
+  },
+  {
+    "word": "incentive",
+    "definition": "Something that motivates, rouses, or encourages.",
+    "example": "I have no incentive to do housework right now.",
+    "weight": 3
+  },
+  {
+    "word": "incorporated",
+    "definition": "To include (something) as a part.",
+    "example": "The design of his house incorporates a spiral staircase.",
+    "weight": 3
+  },
+  {
+    "word": "index",
+    "definition": "An alphabetical listing of items and their location.",
+    "example": "The index of a book lists words or expressions and the pages of the book upon which they are to be found.",
+    "weight": 3
+  },
+  {
+    "word": "infrastructure",
+    "definition": "(systems theory) An underlying base or foundation especially for an organization or system.",
+    "example": "The parasitic tyranny's infrastructure depends on secrecy in order to be effective.",
+    "weight": 3
+  },
+  {
+    "word": "inhibition",
+    "definition": "The act of inhibiting.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "innovation",
+    "definition": "The act of innovating; the introduction of something new, in customs, rites, etc.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "instance",
+    "definition": "Urgency of manner or words; an urgent request; insistence.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "hence",
+    "definition": "From here, from this place, away",
+    "example": "Get thee hence, Satan!",
+    "weight": 3
+  },
+  {
+    "word": "hypothesis",
+    "definition": "Used loosely, a tentative conjecture explaining an observation, phenomenon or scientific problem that can be tested by further observation, investigation and/or experimentation. As a scientific term of art, see the attached quotation. Compare to theory, and quotation given there.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "illustrate",
+    "definition": "To shed light upon.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "image",
+    "definition": "An optical or other representation of a real object; a graphic; a picture.",
+    "example": "The Bible forbids the worship of graven images.",
+    "weight": 3
+  },
+  {
+    "word": "immigration",
+    "definition": "The act of immigrating; the passing or coming into a country of which one is not native born for the purpose of permanent residence.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "implement",
+    "definition": "A tool or instrument for working with.",
+    "example": "They carried an assortment of gardening implements in the truck.",
+    "weight": 3
+  },
+  {
+    "word": "initial",
+    "definition": "The first letter of a word or a name.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "integration",
+    "definition": "The act or process of making whole or entire.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "layer",
+    "definition": "A single thickness of some material covering a surface.",
+    "example": "After the first coat of paint dried, he applied another layer.",
+    "weight": 3
+  },
+  {
+    "word": "legislation  ",
+    "definition": "The act of legislating; preparation and enactment of laws; the laws enacted.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "location",
+    "definition": "A particular point or place in physical space.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "logic",
+    "definition": "A method of human thought that involves thinking in a linear, step-by-step manner about how a problem can be solved. Logic is the basis of many principles including the scientific method.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "marginal",
+    "definition": "Something that is marginal.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "maximum",
+    "definition": "The highest limit",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "mechanism",
+    "definition": "(within a machine or machinery) Any mechanical means for the conversion or control of motion, or the transmission or control of power.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "medical",
+    "definition": "A medical examination.",
+    "example": "You'll have to get a medical before you apply for that job.",
+    "weight": 3
+  },
+  {
+    "word": "mental",
+    "definition": "Of or relating to the mind or an intellectual process.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "modification",
+    "definition": "The form of existence belonging to a particular object, entity etc.; a mode of being.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "negative",
+    "definition": "Refusal or withholding of assents; prohibition, veto",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "network",
+    "definition": "A fabric or structure of fibrous elements attached to each other at regular intervals.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "occupation",
+    "definition": "An activity or task with which one occupies oneself; usually specifically the productive activity, service, trade, or craft for which one is regularly paid; a job.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "option",
+    "definition": "One of a set of choices that can be made.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "orientation",
+    "definition": "The determination of the relative position of something or someone.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "outcome",
+    "definition": "That which is produced or occurs as a result of an event or process.",
+    "example": "A quality automobile is the outcome of the work of skilled engineers and thousands of workers.",
+    "weight": 3
+  },
+  {
+    "word": "overall",
+    "definition": "A garment worn over other clothing to protect it; a coverall or boiler suit. A garment, for manual labor or for casual wear, often made of a single piece of fabric, with long legs and a bib upper, supported from the shoulders with straps, and having several large pockets and loops for carrying tools.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "parallel",
+    "definition": "One of a set of parallel lines.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "perspective",
+    "definition": "A view, vista or outlook.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "philosophy",
+    "definition": "The love of wisdom.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "precise",
+    "definition": "(NNES or European Union documents) To make or render precise; to specify.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "predict",
+    "definition": "A prediction.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "project",
+    "definition": "A planned endeavor, usually with a specific goal and accomplished in several steps or stages.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "promote",
+    "definition": "To raise (someone) to a more important, responsible, or remunerative job or rank.",
+    "example": "He promoted his clerk to office manager.",
+    "weight": 3
+  },
+  {
+    "word": "proportion",
+    "definition": "A quantity of something that is part of the whole amount or number.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "psychology",
+    "definition": "The study of the human mind.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "reaction",
+    "definition": "An action or statement in response to a stimulus or other event.",
+    "example": "The announcement of the verdict brought a violent reaction.",
+    "weight": 3
+  },
+  {
+    "word": "remove",
+    "definition": "The act of removing something.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "resolution",
+    "definition": "A strong will, determination.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "specify",
+    "definition": "To state explicitly, or in detail, or as a condition.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "stability",
+    "definition": "The condition of being stable or in equilibrium, and thus resistant to change.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "subsequent",
+    "definition": "Following in time; coming or being after something else at any time, indefinitely.",
+    "example": "Growth was dampened by a softening of the global economy in 2001, but picked up in the subsequent years due to strong growth in China.",
+    "weight": 3
+  },
+  {
+    "word": "sufficient",
+    "definition": "Equal to the end proposed; adequate to what is needed; enough",
+    "example": "There is not sufficient access to the internet in many small rural villages.",
+    "weight": 3
+  },
+  {
+    "word": "summary",
+    "definition": "An abstract or a condensed presentation of the substance of a body of material.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "supply",
+    "definition": "The act of supplying.",
+    "example": "supply and demand",
+    "weight": 3
+  },
+  {
+    "word": "task",
+    "definition": "A piece of work done as part of one\u2019s duties.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "technique",
+    "definition": "The practical aspects of a given art, occupation etc.; formal requirements.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "technology",
+    "definition": "The organization of knowledge for practical purposes.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "transition",
+    "definition": "The process of change from one form, state, style or place to another.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "trend",
+    "definition": "An inclination in a particular direction.",
+    "example": "the trend of a coastline",
+    "weight": 3
+  },
+  {
+    "word": "version",
+    "definition": "A specific form or variation of something.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "volume",
+    "definition": "A three-dimensional measure of space that comprises a length, a width and a height. It is measured in units of cubic centimeters in metric, cubic inches or cubic feet in English measurement.",
+    "example": "The room is 9x12x8, so its volume is 864 cubic feet.",
+    "weight": 3
+  },
+  {
+    "word": "access",
+    "definition": "A way or means of approaching or entering; an entrance; a passage.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "activity",
+    "definition": "The state or quality of being active; activeness.",
+    "example": "Pit row was abuzz with activity.",
+    "weight": 3
+  },
+  {
+    "word": "alter",
+    "definition": "To change the form or structure of.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "alternative",
+    "definition": "A situation which allows a mutually exclusive choice between two or more possibilities; a choice between two or more possibilities.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "amendment",
+    "definition": "An alteration or change for the better; correction of a fault or of faults; reformation of life by quitting vices.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "annual",
+    "definition": "An annual publication; a book, periodical, journal, report, comic book, yearbook, etc., which is published serially once a year, which may or may not be in addition to regular weekly or monthly publication.",
+    "example": "I read the magazine, but I usually don't purchase the annuals.",
+    "weight": 3
+  },
+  {
+    "word": "apparent",
+    "definition": "Capable of being seen, or easily seen; open to view; visible to the eye, eyely; within sight or view.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "application",
+    "definition": "The act of applying or laying on, in a literal sense",
+    "example": "The application of this cream should reduce the swelling.",
+    "weight": 3
+  },
+  {
+    "word": "approximate",
+    "definition": "To estimate.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "artificial",
+    "definition": "Man-made; of artifice.",
+    "example": "The flowers were artificial, and he thought them rather tacky.",
+    "weight": 3
+  },
+  {
+    "word": "attitude",
+    "definition": "The position of the body or way of carrying oneself.",
+    "example": "The ballet dancer walked with a graceful attitude.",
+    "weight": 3
+  },
+  {
+    "word": "aware",
+    "definition": "Vigilant or on one's guard against danger or difficulty.",
+    "example": "Stay aware! Don't let your guard down.",
+    "weight": 3
+  },
+  {
+    "word": "capacity",
+    "definition": "The ability to hold, receive or absorb",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "challenge ",
+    "definition": "A confrontation; a dare.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "circumstance",
+    "definition": "That which attends, or relates to, or in some way affects, a fact or event; an attendant thing or state of things.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "comment",
+    "definition": "A spoken or written remark.",
+    "example": "I have no comment on that.",
+    "weight": 3
+  },
+  {
+    "word": "communication",
+    "definition": "The act or fact of communicating anything; transmission.",
+    "example": "communication of a secret",
+    "weight": 3
+  },
+  {
+    "word": "concentration",
+    "definition": "The act, process or ability of concentrating; the process of becoming concentrated, or the state of being concentrated.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "conflict",
+    "definition": "A clash or disagreement, often violent, between two or more opposing groups or individuals.",
+    "example": "The conflict between the government and the rebels began three years ago.",
+    "weight": 3
+  },
+  {
+    "word": "considerable",
+    "definition": "A thing to be considered, consideration.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "constant",
+    "definition": "That which is permanent or invariable.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "contact",
+    "definition": "The act of touching physically; being in close association.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "contribution",
+    "definition": "Something given or offered that adds to a larger whole.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "core",
+    "definition": "The central part of fruit, containing the kernels or seeds.",
+    "example": "the core of an apple or quince",
+    "weight": 3
+  },
+  {
+    "word": "correspond",
+    "definition": "(constructed with to) To be equivalent or similar in character, quantity, quality, origin, structure, function etc.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "criteria",
+    "definition": "A single criterion.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "cycle",
+    "definition": "An interval of space or time in which one set of events or phenomena is completed.",
+    "example": "the cycle of the seasons, or of the year",
+    "weight": 3
+  },
+  {
+    "word": "debate",
+    "definition": "An argument, or discussion, usually in an ordered or formal setting, often with more than two people, generally ending with a vote or other decision.",
+    "example": "After a four-hour debate, the committee voted to table the motion.",
+    "weight": 3
+  },
+  {
+    "word": "decline",
+    "definition": "Downward movement, fall.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "deduction",
+    "definition": "That which is deducted; that which is subtracted or removed",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "demonstrate",
+    "definition": "To show how to use (something).",
+    "example": "Can you demonstrate the new tools for us?",
+    "weight": 3
+  },
+  {
+    "word": "despite",
+    "definition": "Disdain, contemptuous feelings, hatred.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "dimension",
+    "definition": "A single aspect of a given thing.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "domestic",
+    "definition": "A house servant; a maid; a household worker.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "dominant",
+    "definition": "The fifth major tone of a musical scale (five major steps above the note in question); thus G is the dominant of C, A of D, and so on.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "emerge",
+    "definition": "To come into view.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "emphasis",
+    "definition": "Special weight or forcefulness given to something considered important.",
+    "example": "He paused for emphasis before saying who had won.",
+    "weight": 3
+  },
+  {
+    "word": "enable",
+    "definition": "To make somebody able (to do, or to be, something); to give sufficient ability or power to do or to be; to give strength or ability to.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "energy",
+    "definition": "The impetus behind all motion and all activity.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "enforcement",
+    "definition": "The act of enforcing; compulsion.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "ensure",
+    "definition": "To make a pledge to (someone); to promise, guarantee (someone of something); to assure.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "equivalent",
+    "definition": "Anything that is virtually equal to something else, or has the same value, force, etc.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "evolution",
+    "definition": "A change of position.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "exclude",
+    "definition": "To bar (someone) from entering; to keep out.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "exposure",
+    "definition": "The condition of being exposed, uncovered, or unprotected.",
+    "example": "Limit your exposure to harsh chemicals.\u00a0\u00a0 Get as much exposure to a new language as you can.",
+    "weight": 3
+  },
+  {
+    "word": "external",
+    "definition": "(chiefly in the plural) The exterior; outward features or appearances.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "facilitate",
+    "definition": "To make easy or easier.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "fundamental",
+    "definition": "(usually in the plural) A leading or primary principle, rule, law, or article, which serves as the groundwork of a system; an essential part",
+    "example": "one of the fundamentals of linear algebra",
+    "weight": 3
+  },
+  {
+    "word": "funds",
+    "definition": "A sum or source of money.",
+    "example": "a fund for the maintenance of underprivileged students",
+    "weight": 3
+  },
+  {
+    "word": "generation",
+    "definition": "The fact of creating something, or bringing something into being; production, creation.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "indicate",
+    "definition": "To point out; to discover; to direct to a knowledge of; to show; to make known.",
+    "example": "The guard blew his whistle to indicate imminent departure.",
+    "weight": 3
+  },
+  {
+    "word": "individual",
+    "definition": "A person considered alone, rather than as belonging to a group of people.",
+    "example": "He is an unusual individual.",
+    "weight": 3
+  },
+  {
+    "word": "injury",
+    "definition": "Damage to the body of a human or animal.",
+    "example": "The passenger sustained a severe injury in the car accident.",
+    "weight": 3
+  },
+  {
+    "word": "investment",
+    "definition": "The act of investing, or state of being invested.",
+    "example": "Giving your children a good education is a wise long-term investment.",
+    "weight": 3
+  },
+  {
+    "word": "involve",
+    "definition": "To roll or fold up; to wind round; to entwine.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "issue",
+    "definition": "The action or an instance of flowing or coming out, an outflow, particularly:",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "item",
+    "definition": "A distinct physical object.",
+    "example": "Tweezers are great for manipulating small items.",
+    "weight": 3
+  },
+  {
+    "word": "legal",
+    "definition": "The legal department of a company.",
+    "example": "Legal wants this in writing.",
+    "weight": 3
+  },
+  {
+    "word": "maintenance",
+    "definition": "Actions performed to keep some machine or system functioning or in service.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "major",
+    "definition": "A military rank between captain and lieutenant colonel.",
+    "example": "He used to be a major in the army.",
+    "weight": 3
+  },
+  {
+    "word": "media",
+    "definition": "The middle layer of the wall of a blood vessel or lymph vessel which is composed of connective and muscular tissue.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "method",
+    "definition": "A process by which a task is completed; a way of doing something (followed by the adposition of, to or for before the purpose of the process):",
+    "example": "If one method doesn't work, you should ask a friend to help you.",
+    "weight": 3
+  },
+  {
+    "word": "modern",
+    "definition": "Someone who lives in modern times.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "normal",
+    "definition": "A line or vector that is perpendicular to another line, surface, or plane.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "obtain",
+    "definition": "To get hold of; to gain possession of, to procure; to acquire, in any way.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "restrict",
+    "definition": "To restrain within boundaries; to limit; to confine",
+    "example": "After suffering diahrroea, the patient was restricted to a diet of rice, cold meat, and yoghurt.",
+    "weight": 3
+  },
+  {
+    "word": "occur",
+    "definition": "To happen or take place.",
+    "example": "The liftoff will occur in exactly twelve seconds.",
+    "weight": 3
+  },
+  {
+    "word": "participation",
+    "definition": "The act of participating, of taking part in something.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "percent",
+    "definition": "A percentage, a proportion (especially per hundred).",
+    "example": "only a small percent attain the top ranks",
+    "weight": 3
+  },
+  {
+    "word": "period",
+    "definition": "A length of time.",
+    "example": "There was a period of confusion following the announcement.",
+    "weight": 3
+  },
+  {
+    "word": "policy",
+    "definition": "A principle of behaviour, conduct etc. thought to be desirable or necessary, especially as formally expressed by a government or other authoritative body.",
+    "example": "The Communist Party has a policy of returning power to the workers.",
+    "weight": 3
+  },
+  {
+    "word": "positive",
+    "definition": "A thing capable of being affirmed; something real or actual.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "potential",
+    "definition": "Currently unrealized ability (with the most common adposition being to)",
+    "example": "Even from a young age it was clear that she had the potential to become a great musician.",
+    "weight": 3
+  },
+  {
+    "word": "previous",
+    "definition": "An existing criminal record (short for \"previous convictions\")",
+    "example": "It turned out the shoplifter had a lot of previous.",
+    "weight": 3
+  },
+  {
+    "word": "primary",
+    "definition": "A primary election; a preliminary election to select a political candidate of a political party.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "process",
+    "definition": "A series of events which produce a result (the product).",
+    "example": "This product of last month's quality standards committee is quite good, even though the process was flawed.",
+    "weight": 3
+  },
+  {
+    "word": "purchase",
+    "definition": "The acquisition of title to, or property in, anything for a price; buying for money or its equivalent.",
+    "example": "They offer a free hamburger with the purchase of a drink.",
+    "weight": 3
+  },
+  {
+    "word": "range",
+    "definition": "A line or series of mountains, buildings, etc.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "recent",
+    "definition": "Having happened a short while ago.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "region",
+    "definition": "Any considerable and connected part of a space or surface; specifically, a tract of land or sea of considerable but indefinite extent; a country; a district; in a broad sense, a place without special reference to location or extent but viewed as an entity for geographical, social or cultural reasons.",
+    "example": "the equatorial regions",
+    "weight": 3
+  },
+  {
+    "word": "regulations",
+    "definition": "The act of regulating or the condition of being regulated.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "relevant",
+    "definition": "Directly related, connected, or pertinent to a topic.",
+    "example": "His mother provided some relevant background information concerning his medical condition.",
+    "weight": 3
+  },
+  {
+    "word": "require",
+    "definition": "To ask (someone) for something; to request.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "research",
+    "definition": "Diligent inquiry or examination to seek or revise facts, principles, theories, applications, etc.; laborious or continued search after truth.",
+    "example": "The research station that houses Wang and his team is outside Lijiang, a city of about 1.2 million people.",
+    "weight": 3
+  },
+  {
+    "word": "resident",
+    "definition": "A person, animal or plant living at a certain location or in a certain area.",
+    "example": "The tiger lily is a resident of Asia.",
+    "weight": 3
+  },
+  {
+    "word": "resources",
+    "definition": "Something that one uses to achieve an objective, e.g. raw materials or personnel.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "response",
+    "definition": "An answer or reply, or something in the nature of an answer or reply.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "sector",
+    "definition": "Section",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "security",
+    "definition": "The condition of not being threatened, especially physically, psychologically, emotionally, or financially.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "significant",
+    "definition": "That which has significance; a sign; a token; a symbol.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "similar",
+    "definition": "That which is similar to, or resembles, something else, as in quality, form, etc.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "solution",
+    "definition": "A homogeneous mixture, which may be liquid, gas or solid, formed by dissolving one or more substances.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "source",
+    "definition": "The person, place or thing from which something (information, goods, etc.) comes or is acquired.",
+    "example": "The accused refused to reveal the source of the illegal drugs she was selling.",
+    "weight": 3
+  },
+  {
+    "word": "specific",
+    "definition": "A distinguishing attribute or quality.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "strategy",
+    "definition": "The science and art of military command as applied to the overall planning and conduct of warfare.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "structure",
+    "definition": "A cohesive whole built up of distinct parts.",
+    "example": "The birds had built an amazing structure out of sticks and various discarded items.",
+    "weight": 3
+  },
+  {
+    "word": "theory",
+    "definition": "A description of an event or system that is considered to be accurate.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "threat",
+    "definition": "An expression of intent to injure or punish another.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "traditional",
+    "definition": "A person with traditional beliefs.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "transport",
+    "definition": "An act of transporting; conveyance.",
+    "example": "The transport of goods is not included in the price given on the website.",
+    "weight": 3
+  },
+  {
+    "word": "achieve",
+    "definition": "To succeed in something, now especially in academic performance.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "administration",
+    "definition": "The act of administering; government of public affairs; the service rendered, or duties assumed, in conducting affairs; the conducting of any office or employment; direction.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "affect",
+    "definition": "To influence or alter.",
+    "example": "The experience affected me deeply.",
+    "weight": 3
+  },
+  {
+    "word": "analysis",
+    "definition": "Decomposition into components in order to study (a complex thing, concept, theory etc.).",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "approach",
+    "definition": "The act of drawing near; a coming or advancing near.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "appropriate",
+    "definition": "To make suitable; to suit.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "area",
+    "definition": "A measure of the extent of a surface; it is measured in square units.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "aspects",
+    "definition": "Any specific feature, part, or element of something.",
+    "example": "Japan's aging population is an important aspect of its economy.",
+    "weight": 3
+  },
+  {
+    "word": "assistance",
+    "definition": "Aid; help; the act or result of assisting.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "assume",
+    "definition": "To authenticate by means of belief; to surmise; to suppose to be true, especially without proof",
+    "example": "We assume that, as her parents were dentists, she knows quite a bit about dentistry.",
+    "weight": 3
+  },
+  {
+    "word": "authority",
+    "definition": "The power to enforce rules or give orders.",
+    "example": "I have the authority to penalise the staff in my department, but not the authority to sack them.",
+    "weight": 3
+  },
+  {
+    "word": "available",
+    "definition": "Such as one may avail oneself of; capable of being used for the accomplishment of a purpose.",
+    "example": "We have an available candidate.",
+    "weight": 3
+  },
+  {
+    "word": "benefit",
+    "definition": "An advantage; help or aid from something.",
+    "example": "It was for her benefit.\u00a0\u00a0 His benefit was free beer.",
+    "weight": 3
+  },
+  {
+    "word": "category",
+    "definition": "A group, often named or numbered, to which items are assigned based on similarity or defined criteria.",
+    "example": "I wouldn't put this book in the same category as the author's first novel.",
+    "weight": 3
+  },
+  {
+    "word": "community",
+    "definition": "A group sharing a common understanding, and often the same language, law, manners, and/or tradition.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "complex",
+    "definition": "A network of interconnected systems.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "concerning",
+    "definition": "To relate or belong to; to have reference to or connection with; to affect the interest of; to be of importance to.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "conclusion",
+    "definition": "The end, finish, close or last part of something.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "conduct ",
+    "definition": "The act or method of controlling or directing",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "consequence",
+    "definition": "That which follows something on which it depends; that which is produced by a cause.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "consistent",
+    "definition": "(in the plural) Objects or facts that are coexistent, or in agreement with one another.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "constitutional",
+    "definition": "A walk that is taken regularly for good health and wellbeing.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "consumer",
+    "definition": "One who, or that which, consumes.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "context",
+    "definition": "The surroundings, circumstances, environment, background or settings that determine, specify, or clarify the meaning of an event or other occurrence.",
+    "example": "In what context did your attack on him happen? - We had a pretty tense relationship at the time, and when he insulted me I snapped.",
+    "weight": 3
+  },
+  {
+    "word": "create",
+    "definition": "To bring into existence; (sometimes in particular:)",
+    "example": "You can create the color orange by mixing yellow and red.",
+    "weight": 3
+  },
+  {
+    "word": "culture",
+    "definition": "The arts, customs, lifestyles, background, and habits that characterize a particular society or nation.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "data",
+    "definition": "(plural: data) A measurement of something on a scale understood by both the recorder (a person or device) and the reader (another person or device). The scale is arbitrarily defined, such as from 1 to 10 by ones, 1 to 100 by 0.1, or simply true or false, on or off, yes, no, or maybe, etc.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "definition",
+    "definition": "A statement of the meaning of a word or word group or a sign or symbol (dictionary definitions).",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "destructive",
+    "definition": "Causing destruction; damaging.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "discovery",
+    "definition": "Something discovered.",
+    "example": "This latest discovery should eventually lead to much better treatments for disease.",
+    "weight": 3
+  },
+  {
+    "word": "distinction",
+    "definition": "That which distinguishes; a single occurrence of a determining factor or feature, the fact of being divided; separation, discrimination.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "economic",
+    "definition": "Pertaining to an economy.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "element",
+    "definition": "One of the simplest or essential parts or principles of which anything consists, or upon which the constitution or fundamental powers of anything are based.",
+    "example": "Letters are the elements of written language.",
+    "weight": 3
+  },
+  {
+    "word": "environment",
+    "definition": "The surroundings of, and influences on, a particular item of interest.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "error",
+    "definition": "The state, quality, or condition of being wrong.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "equation",
+    "definition": "The act or process of equating two or more things, or the state of those things being equal (that is, identical).",
+    "example": "We need to bring the balance of power into equation",
+    "weight": 3
+  },
+  {
+    "word": "establish",
+    "definition": "To make stable or firm; to confirm.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "estimate",
+    "definition": "A rough calculation or assessment of the value, size, or cost of something.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "evaluation",
+    "definition": "An assessment, such as an annual personnel performance review used as the basis for a salary increase or bonus, or a summary of a particular situation.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "evidence",
+    "definition": "Facts or observations presented in support of an assertion.",
+    "example": "There is no evidence that anyone was here earlier.",
+    "weight": 3
+  },
+  {
+    "word": "factors",
+    "definition": "A doer, maker; a person who does things for another person or organization.",
+    "example": "The factor of the trading post bought the furs.",
+    "weight": 3
+  },
+  {
+    "word": "feature",
+    "definition": "One's structure or make-up: form, shape, bodily proportions.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "final",
+    "definition": "A final examination; a test or examination given at the end of a term or class; the test that concludes a class.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "financial",
+    "definition": "Related to finances.",
+    "example": "For financial reasons, we're not going to be able to continue to fund this program.",
+    "weight": 3
+  },
+  {
+    "word": "focus",
+    "definition": "A point at which reflected or refracted rays of light converge.",
+    "example": "The heat of sunlight at the focus of a magnifying glass can easily set dry leaves on fire.",
+    "weight": 3
+  },
+  {
+    "word": "function",
+    "definition": "What something does or is used for.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "global",
+    "definition": "A globally scoped identifier.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "identify",
+    "definition": "To establish the identity of someone or something.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "impact",
+    "definition": "The striking of one body against another; collision.",
+    "example": "",
+    "weight": 3
+  },
+  {
+    "word": "income",
+    "definition": "Money one earns by working or by capitalising on the work of others.",
+    "example": "",
+    "weight": 3
+  }
+]
